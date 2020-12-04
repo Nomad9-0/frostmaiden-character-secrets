@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/frostmaiden-character-secrets/static/css/main.f23d7e74.chunk.css",
+    "main.js": "/frostmaiden-character-secrets/static/js/main.d5407afe.chunk.js",
+    "main.js.map": "/frostmaiden-character-secrets/static/js/main.d5407afe.chunk.js.map",
+    "runtime-main.js": "/frostmaiden-character-secrets/static/js/runtime-main.a450cda8.js",
+    "runtime-main.js.map": "/frostmaiden-character-secrets/static/js/runtime-main.a450cda8.js.map",
+    "static/js/2.2555b325.chunk.js": "/frostmaiden-character-secrets/static/js/2.2555b325.chunk.js",
+    "static/js/2.2555b325.chunk.js.map": "/frostmaiden-character-secrets/static/js/2.2555b325.chunk.js.map",
+    "index.html": "/frostmaiden-character-secrets/index.html",
+    "static/css/main.f23d7e74.chunk.css.map": "/frostmaiden-character-secrets/static/css/main.f23d7e74.chunk.css.map",
+    "static/js/2.2555b325.chunk.js.LICENSE.txt": "/frostmaiden-character-secrets/static/js/2.2555b325.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/frostmaiden-character-secrets/static/media/icewind_dale.77ea20ef.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a450cda8.js",
+    "static/js/2.2555b325.chunk.js",
+    "static/css/main.f23d7e74.chunk.css",
+    "static/js/main.d5407afe.chunk.js"
+  ]
+}
