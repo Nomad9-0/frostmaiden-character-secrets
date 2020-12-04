@@ -10,6 +10,15 @@ h1 {
   color: #fff;
   margin-top: 0px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+h2 {
+  text-transform: uppercase;
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 

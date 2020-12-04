@@ -10,6 +10,7 @@ function App() {
       <Container>
         <Row>
           <h1>Rime of the frostmaiden</h1>
+          <h2>Secrets Generator</h2>
           <Secrets />
         </Row>
       </Container>
