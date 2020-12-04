@@ -1,14 +1,17 @@
+html {
+  background: url(./images/icewind_dale.webp) no-repeat fixed center;
+}
 .App {
   text-align: center;
-  background: url(./images/icewind_dale.webp) no-repeat fixed center;
   padding-top: 100px;
-  padding-bottom: 100px;
 }
 h1 {
   text-transform: uppercase;
   color: #fff;
   margin-top: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 
 
 
